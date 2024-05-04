@@ -136,7 +136,7 @@ def main():
     
 
 #---Done --
-st.markdown("Developed by External Guide Avinash Pawar and WBL intern : Sana Khan at NIELIT Daman")
+    st.markdown("Developed by External Guide Avinash Pawar and WBL intern : Sana Khan at NIELIT Daman")
    
 
     
